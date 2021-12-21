@@ -5,9 +5,9 @@ ReactDOM.render(
   <div>
     <h1>My Favorite Foods</h1>
     <ul>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Mit</li>
+      <li>Fructis</li>
+      <li>Vegetable</li>
     </ul>
   </div>,
   document.getElementById("root")
